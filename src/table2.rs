@@ -193,6 +193,7 @@ impl App {
                         }
                         KeyCode::Char('l') | KeyCode::Right => self.next_column(),
                         KeyCode::Char('h') | KeyCode::Left => self.previous_column(),
+                        // any other key, Quit
                         _ => {}
                     }
                 }

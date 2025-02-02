@@ -6,6 +6,7 @@ TUI example
 
 see : https://ratatui.rs/examples/widgets/table/
 
+cargo run --bin ru_ratatui1
 
 */
 
