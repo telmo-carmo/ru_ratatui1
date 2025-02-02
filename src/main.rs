@@ -1,6 +1,6 @@
 /*
 
-TUI example
+TUI example in Rust 
 
 --
 
